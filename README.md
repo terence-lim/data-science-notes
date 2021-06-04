@@ -22,7 +22,7 @@ recommending, nor have received any compensation for these exams.
 &nbsp;
 
 
-## Machine Learning Course Notes
+## Machine Learning Course Summaries
 
 - Deep Learning
 
