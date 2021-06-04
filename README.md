@@ -12,10 +12,10 @@ by: [Terence Lim](https://www.linkedin.com/in/terencelim)
 ## Data Science Notes
 
 
-[Financial Data Professional] (https://terence-lim.github.io/notes/FDP.pdf)
+[Financial Data Professional] (FDP.pdf)
 exam\*, by FDP Institute, CAIA Association.
 
-[Statistics for Risk Models] (https://terence-lim.github.io/notes/SRM.pdf)
+[Statistics for Risk Models] (SRM.pdf)
 exam\*, by the Society of Actuaries.
 
 _\*Note_: I have not taken, do not plan to sit for, am not necessarily
