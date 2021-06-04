@@ -29,4 +29,15 @@ receive any compensation from these examination boards</blockquote>
 [Natural Language Processing](./)
 
 
+## Github command line
+
+- git init                  -- initialized local directory as a Git repo
+- git remote add origin _url_  -- add Github url for remote repo
+- git remote -v          --  verifies remote url
+- git add _file_          --  add a file in local repo, and stage for commit
+- git reset HEAD [file]   -- unstage a file
+- git commit -m _message_ -- commits all tracked changes, and prepare to push
+- git push -u origin master  -- push chenges in local repo to remote
+- git pull -u origin master  -- pull remote repo to local
+
 
