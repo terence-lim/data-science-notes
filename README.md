@@ -1,6 +1,6 @@
 # Notes and Cheatsheets
 
-This repo contains some study notes I have drawn from examination syllabi
+This repo contains some summary notes I have drawn from examination syllabi
 and courses.
 
 by: [Terence Lim](https://www.linkedin.com/in/terencelim)
