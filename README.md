@@ -12,14 +12,15 @@ by: [Terence Lim](https://www.linkedin.com/in/terencelim)
 ## Data Science Notes
 
 
-- [Financial Data Professional] (FDP.pdf)
-exam\*, by FDP Institute, CAIA Association.
+- [Financial Data Professional] (FDP.pdf) exam, by FDP Institute, CAIA Association.
 
-- [Statistics for Risk Models] (SRM.pdf)
-exam\*, by the Society of Actuaries.
+- [Statistics for Risk Models] (SRM.pdf) exam, by the Society of Actuaries.
 
 _\*Note_: I have not taken, do not plan to sit for, am not necessarily
 recommending, nor have received any compensation for these exams.
+
+&nbsp;
+
 
 ## Machine Learning Notes
 
@@ -28,6 +29,8 @@ recommending, nor have received any compensation for these exams.
 [Reinforcement Learning](./)
 
 [Natural Language Processing](./)
+
+&nbsp;
 
 
 ## Github command line
