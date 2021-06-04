@@ -11,6 +11,7 @@ by: [Terence Lim](https://www.linkedin.com/in/terencelim)
 
 ## Data Science Notes
 
+Inspired by the suggested readings for the
 
 - [Financial Data Professional] (FDP.pdf) exam, by FDP Institute, CAIA Association.
 
