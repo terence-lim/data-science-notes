@@ -8,6 +8,9 @@ by: [Terence Lim](https://www.linkedin.com/in/terencelim)
 
 &nbsp;
 
+## Machine Learning Notes
+
+[Deep Learning](./)
 
 
 ## Machine Learning Notes
