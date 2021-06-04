@@ -8,18 +8,27 @@ by: [Terence Lim](https://www.linkedin.com/in/terencelim)
 
 &nbsp;
 
-## Machine Learning Notes
+## Data Science Study Notes
 
-[Financial Data Professional] (https://github.com/terence-lim/data-science-notes/FDP.pdf)
+Inspired by the suggested readings for the
+
+- Financial Data Professional (FDP) exam\*, by FDP Institute, CAIA Association.
+
+- Statistics for Risk Modelling (SRM) exam\*, by the Society of Actuaries.
+
+_\*Note_: I have not taken, do not plan to sit for, am not necessarily
+recommending, nor have received any compensation for these exams.
+
+&nbsp;
 
 
-## Machine Learning Notes
+## Machine Learning Course Notes
 
-[Deep Learning](./)
+- Deep Learning
 
-[Reinforcement Learning](./)
+- Reinforcement Learning
 
-[Natural Language Processing](./)
+- Natural Language Processing
 
 &nbsp;
 
