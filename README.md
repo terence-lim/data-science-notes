@@ -10,7 +10,7 @@ by: [Terence Lim](https://www.linkedin.com/in/terencelim)
 
 ## Machine Learning Notes
 
-[Deep Learning](./)
+[Financial Data Professional] (FDP.pdf)
 
 
 ## Machine Learning Notes
