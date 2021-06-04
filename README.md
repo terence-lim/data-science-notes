@@ -9,19 +9,6 @@ by: [Terence Lim](https://www.linkedin.com/in/terencelim)
 &nbsp;
 
 
-## Data Science Notes
-
-Inspired by the suggested readings for the
-
-- [Financial Data Professional] (FDP.pdf) exam, by FDP Institute, CAIA Association.
-
-- [Statistics for Risk Models] (SRM.pdf) exam, by the Society of Actuaries.
-
-_\*Note_: I have not taken, do not plan to sit for, am not necessarily
-recommending, nor have received any compensation for these exams.
-
-&nbsp;
-
 
 ## Machine Learning Notes
 
