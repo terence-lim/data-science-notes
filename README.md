@@ -1,0 +1,32 @@
+# Notes and Cheatsheets
+
+This repo contains some study notes I have drawn from examination syllabi
+and courses.
+
+by: [Terence Lim](https://www.linkedin.com/in/terencelim)
+
+
+&nbsp;
+
+
+## Data Science Notes
+
+[Financial Data Professional](https://terence.lim.github.io/notes/FDP.pdf)
+exam\*, by FDP Institute, CAIA Association.
+
+[Statistis for Risk Models](https://terence.lim.github.io/notes/SRM.pdf"> 
+exam\*, by the Society of Actuaries.
+
+_\*Note_: I (1) have not taken (2) do not plan to sit for (3) am not necessarily recommending (4) nor
+receive any compensation from these examination boards</blockquote>
+
+## Machine Learning Notes
+
+[Deep Learning](./)
+
+[Reinforcement Learning](./)
+
+[Natural Language Processing](./)
+
+
+
