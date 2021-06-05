@@ -1,6 +1,6 @@
-# A Selection of Study and Course Notes
+# Study and Course Notes
 
-This repo contains some summary notes I have drawn from exam syllabi
+This repo contains some study notes I have summarized from exam syllabi
 and courses relating to data science and machine learning.
 
 by: [Terence Lim](https://www.linkedin.com/in/terencelim)
