@@ -12,7 +12,7 @@ by: [Terence Lim](https://www.linkedin.com/in/terencelim)
 
 Inspired by the suggested readings for the
 
-- [Financial Data Professional] (https://www.linkedin.com/in/terencelim) exam\*, by FDP Institute, CAIA Association.
+- [Financial Data Professional] (FDP) exam\*, by FDP Institute, CAIA Association.
 
 - [Statistics for Risk Modelling] (SRM.pdf) exam\*, by the Society of Actuaries.
 
