@@ -1,7 +1,7 @@
 # Notes and Cheatsheets
 
-This repo contains some summary notes I have drawn from examination syllabi
-and courses.
+This repo contains some summary notes I have drawn from exam syllabi
+and courses relating to data science and machine learning.
 
 by: [Terence Lim](https://www.linkedin.com/in/terencelim)
 
