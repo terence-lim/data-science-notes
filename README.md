@@ -1,4 +1,4 @@
-# Notes and Cheatsheets
+# A Selection of Study and Course Notes
 
 This repo contains some summary notes I have drawn from exam syllabi
 and courses relating to data science and machine learning.
