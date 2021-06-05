@@ -10,7 +10,7 @@ by: [Terence Lim](https://www.linkedin.com/in/terencelim)
 
 ## Data Science Study Notes
 
-Inspired by the suggested readings for the
+Inspired by the suggested readings and syllabi for the
 
 - [Financial Data Professional](./fdp,pdf) exam\*, by FDP Institute, CAIA Association.
 
