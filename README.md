@@ -24,7 +24,7 @@ recommending, nor have received any compensation for these exams.
 
 ## Machine Learning Course Summaries
 
-- [Deep Learning] (./FDP.pdf)
+- [Deep Learning](./FDP.pdf)
 
 - Reinforcement Learning
 
