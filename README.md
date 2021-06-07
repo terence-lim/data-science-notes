@@ -22,9 +22,9 @@ recommending, nor have received any compensation for these exams.
 &nbsp;
 
 
-## Machine Learning Course Summaries
+## Machine Learning Course Summaries (stay tuned)
 
-- [Deep Learning](./)
+- Deep Learning
 
 - Reinforcement Learning
 
